@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\CybersecurityAwarenessBot\CybersecurityAwarenessBotGUI\obj\Debug\net8.0-windows\CybersecurityAwarenessBotGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\CybersecurityAwarenessBot\CybersecurityAwarenessBotGUI\obj\Debug\net8.0-windows\CybersecurityAwarenessBotGUI.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\CybersecurityAwarenessBot\CybersecurityAwarenessBotGUI\obj\Debug\net8.0-windows\CybersecurityAwarenessBotGUI.AssemblyInfo.cs
+C:\Users\Student\source\repos\CybersecurityAwarenessBot\CybersecurityAwarenessBotGUI\obj\Debug\net8.0-windows\CybersecurityAwarenessBotGUI.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\CybersecurityAwarenessBot\CybersecurityAwarenessBotGUI\bin\Debug\net8.0-windows\CybersecurityAwarenessBotGUI.exe
+C:\Users\Student\source\repos\CybersecurityAwarenessBot\CybersecurityAwarenessBotGUI\bin\Debug\net8.0-windows\CybersecurityAwarenessBotGUI.deps.json
+C:\Users\Student\source\repos\CybersecurityAwarenessBot\CybersecurityAwarenessBotGUI\bin\Debug\net8.0-windows\CybersecurityAwarenessBotGUI.runtimeconfig.json
+C:\Users\Student\source\repos\CybersecurityAwarenessBot\CybersecurityAwarenessBotGUI\bin\Debug\net8.0-windows\CybersecurityAwarenessBotGUI.dll
+C:\Users\Student\source\repos\CybersecurityAwarenessBot\CybersecurityAwarenessBotGUI\bin\Debug\net8.0-windows\CybersecurityAwarenessBotGUI.pdb
+C:\Users\Student\source\repos\CybersecurityAwarenessBot\CybersecurityAwarenessBotGUI\obj\Debug\net8.0-windows\CybersecurityAwarenessBotGUI.dll
+C:\Users\Student\source\repos\CybersecurityAwarenessBot\CybersecurityAwarenessBotGUI\obj\Debug\net8.0-windows\refint\CybersecurityAwarenessBotGUI.dll
+C:\Users\Student\source\repos\CybersecurityAwarenessBot\CybersecurityAwarenessBotGUI\obj\Debug\net8.0-windows\CybersecurityAwarenessBotGUI.pdb
+C:\Users\Student\source\repos\CybersecurityAwarenessBot\CybersecurityAwarenessBotGUI\obj\Debug\net8.0-windows\CybersecurityAwarenessBotGUI.genruntimeconfig.cache
+C:\Users\Student\source\repos\CybersecurityAwarenessBot\CybersecurityAwarenessBotGUI\obj\Debug\net8.0-windows\ref\CybersecurityAwarenessBotGUI.dll
+C:\Users\Student\source\repos\CybersecurityAwarenessBot\CybersecurityAwarenessBotGUI\bin\Debug\net8.0-windows\Audio\greeting.wav
